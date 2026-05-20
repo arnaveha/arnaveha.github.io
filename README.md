@@ -1,2 +1,2 @@
-# arnaveha.github.io
-Personal Blog
+# discomfortreads.github.io
+Book Blog
